@@ -1,0 +1,393 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ti",
+				"title"
+			],
+			[
+				"searc",
+				"search_view"
+			],
+			[
+				"stat",
+				"staticfiles"
+			],
+			[
+				"pu",
+				"published"
+			],
+			[
+				"Blo",
+				"BlogPostQuerySet"
+			],
+			[
+				"up",
+				"updated"
+			],
+			[
+				"t",
+				"timestamp"
+			],
+			[
+				"publ",
+				"publish_date"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"is",
+				"is_valid"
+			],
+			[
+				"Blog",
+				"BlogPost"
+			],
+			[
+				"obj",
+				"object"
+			],
+			[
+				"Con",
+				"ContactForm"
+			],
+			[
+				"Co",
+				"ContactForm"
+			],
+			[
+				"te",
+				"textarea\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"blo",
+				"blog_post_detail_page"
+			],
+			[
+				"blog",
+				"blog_post_detail_page"
+			],
+			[
+				"get",
+				"get_object_or_404"
+			],
+			[
+				"B",
+				"BASE_DIR"
+			],
+			[
+				"col",
+				"color\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "try_django/src/templates/navbar.html",
+			"settings":
+			{
+				"buffer_size": 1171,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "try_django/src/try_django/urls.py",
+			"settings":
+			{
+				"buffer_size": 1623,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/hp/Desktop/DjangoProjects/try_django",
+		"/C/Users/hp/Desktop/DjangoProjects/try_django/src",
+		"/C/Users/hp/Desktop/DjangoProjects/try_django/src/blog",
+		"/C/Users/hp/Desktop/DjangoProjects/try_django/src/blog/templates",
+		"/C/Users/hp/Desktop/DjangoProjects/try_django/src/blog/templates/blog",
+		"/C/Users/hp/Desktop/DjangoProjects/try_django/src/searches",
+		"/C/Users/hp/Desktop/DjangoProjects/try_django/src/searches/templates",
+		"/C/Users/hp/Desktop/DjangoProjects/try_django/src/searches/templates/searches",
+		"/C/Users/hp/Desktop/DjangoProjects/try_django/src/templates",
+		"/C/Users/hp/Desktop/DjangoProjects/try_django/src/try_django",
+		"/C/Users/hp/Desktop/DjangoProjects/try_django/static_cdn_test",
+		"/C/Users/hp/Desktop/DjangoProjects/try_django/static_cdn_test/media",
+		"/C/Users/hp/Desktop/DjangoProjects/try_django/static_cdn_test/media/image"
+	],
+	"file_history":
+	[
+		"/C/Users/hp/Desktop/DjangoProjects/try_django/src/blog/views.py",
+		"/C/Users/hp/Desktop/DjangoProjects/try_django/src/blog/templates/blog/list-inline.html",
+		"/C/Users/hp/Desktop/DjangoProjects/try_django/src/blog/models.py",
+		"/C/Users/hp/Desktop/DjangoProjects/try_django/src/searches/admin.py",
+		"/C/Users/hp/Desktop/DjangoProjects/try_django/src/searches/views.py",
+		"/C/Users/hp/Desktop/DjangoProjects/try_django/src/searches/templates/searches/views.html",
+		"/C/Users/hp/Desktop/DjangoProjects/try_django/src/blog/templates/blog/form.html",
+		"/C/Users/hp/Desktop/DjangoProjects/try_django/src/try_django/settings.py",
+		"/C/Users/hp/Desktop/DjangoProjects/try_django/src/try_django/urls.py",
+		"/C/Users/hp/Desktop/DjangoProjects/try_django/src/searches/models.py",
+		"/C/Users/hp/Desktop/DjangoProjects/try_django/src/templates/navbar.html",
+		"/C/Users/hp/Desktop/DjangoProjects/try_django/src/blog/forms.py",
+		"/C/Users/hp/Desktop/DjangoProjects/try_django/src/templates/form.html",
+		"/C/Users/hp/Desktop/DjangoProjects/try_django/src/staticfiles/blank.txt",
+		"/C/Users/hp/Desktop/DjangoProjects/try_django/src/templates/home.html",
+		"/C/Users/hp/Desktop/DjangoProjects/try_django/src/blog/templates/blog/detail.html",
+		"/C/Users/hp/Desktop/DjangoProjects/try_django/src/templates/base.html",
+		"/C/Users/hp/Desktop/DjangoProjects/try_django/src/blog/templates/blog/list.html",
+		"/C/Users/hp/Desktop/DjangoProjects/try_django/static_cdn_test/blank/blank.txt",
+		"/C/Users/hp/Desktop/DjangoProjects/try_django/src/templates/js.html",
+		"/C/Users/hp/Desktop/DjangoProjects/try_django/src/try_django/views.py",
+		"/C/Users/hp/Desktop/DjangoProjects/try_django/src/blog/templates/blog/delete.html",
+		"/C/Users/hp/Desktop/DjangoProjects/try_django/src/try_django/forms.py",
+		"/C/Users/hp/Desktop/DjangoProjects/try_django/src/blog/templates/blog/create.html",
+		"/C/Users/hp/Desktop/DjangoProjects/try_django/src/blog/templates/forms.py",
+		"/C/Users/hp/Desktop/DjangoProjects/try_django/src/blog/admin.py",
+		"/C/Users/hp/Desktop/DjangoProjects/try_django/src/blog/urls.py",
+		"/C/Users/hp/Desktop/DjangoProjects/try_django/src/templates/blog_post_delete.html",
+		"/C/Users/hp/Desktop/DjangoProjects/try_django/src/templates/blog_post_update.html",
+		"/C/Users/hp/Desktop/DjangoProjects/try_django/src/templates/blog_post_create.html",
+		"/C/Users/hp/Desktop/DjangoProjects/try_django/src/templates/blog_post_list.html",
+		"/C/Users/hp/Desktop/DjangoProjects/try_django/src/templates/blog_post_detail.html",
+		"/C/Users/hp/Desktop/DjangoProjects/try_django/src/templates/about.html",
+		"/C/Users/hp/Desktop/DjangoProjects/try_django/src/templates/hello_world.html",
+		"/C/Users/hp/Desktop/cs tuts/FITNESSHUB/updated_fitness1/app.js",
+		"/C/Users/hp/Desktop/cs tuts/FITNESSHUB/updated_fitness1/package.json",
+		"/C/Users/hp/Desktop/udemy/Newsletter-Signup/package.json",
+		"/C/Users/hp/Desktop/cs tuts/FITNESSHUB/updated_fitness1/views/meal.ejs",
+		"/C/Users/hp/Desktop/cs tuts/FITNESSHUB/updated_fitness1/views/login.ejs",
+		"/C/Users/hp/coursera-test/module5_solution/index.html",
+		"/C/Users/hp/coursera-test/module5_solution/css/styles.css",
+		"/C/Users/hp/coursera-test/module5_solution/js/npm.js",
+		"/C/Users/hp/coursera-test/module5_solution/js/script.js",
+		"/C/Users/hp/Desktop/cs tuts/hcj/fullstack-course4-master/fullstack-course4-master/examples/Lecture32/after/index.html",
+		"/C/Users/hp/coursera-test/module4_solution/script.js",
+		"/C/Users/hp/coursera-test/module4_solution/SpeakHello.js",
+		"/C/Users/hp/coursera-test/module4_solution/SpeakGoodBye.js",
+		"/C/Users/hp/coursera-test/module4_solution/index.html",
+		"/C/Users/hp/Desktop/cs tuts/hcj/fullstack-course4-master/fullstack-course4-master/examples/Lecture52/index.html",
+		"/C/Users/hp/Desktop/cs tuts/hcj/fullstack-course4-master/fullstack-course4-master/examples/Lecture52/js/script1.js",
+		"/C/Users/hp/Desktop/cs tuts/hcj/fullstack-course4-master/fullstack-course4-master/examples/Lecture52/js/app.js",
+		"/C/Users/hp/coursera-test/module2_solution/style.css",
+		"/C/Users/hp/coursera-test/site/index.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "try_django/src/templates/navbar.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1171,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								764,
+								764
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "try_django/src/try_django/urls.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1623,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								922,
+								922
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "try_django.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 186.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
