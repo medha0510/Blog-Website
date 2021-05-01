@@ -1,0 +1,17 @@
+# Blog-Website
+A Basic blog website created over the Django admin where a user can create a new blog, view their as well as others content, make modifications in their content and can also delete their blog.
+
+1.Requirements:
+  Python 3.6 & above
+  Virtual Environment (pipenv or virtualenv)
+    
+2.How to start the blog on your system:
+  Clone the repository
+  Go to your terminal or cmd
+  Navigate into the src folder by typing the following command:
+    >cd Blog-Website\try_django\src
+  Now run the server by typing the following command:
+    >python manage.py runserver
+  Now copy the url that will be provided in the second last line.
+  
+3.Paste the url on your browser and you are ready to go.
